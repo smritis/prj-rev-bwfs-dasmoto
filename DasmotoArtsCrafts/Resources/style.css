@@ -1,0 +1,67 @@
+style.css
+h1 {
+  color: black;
+  font-style: bold;
+  font-family: Arial;
+  font-size: 50px;
+}
+h2 {
+  color: black;
+  font-style: bold;
+  font-family: Arial;
+  font-size: 30px;
+}
+p {
+  color: black;
+  font-style: regular;
+  font-family: Arial;
+  font-size: 20px;
+}
+p1 {
+  color: blue;
+  font-style: regular;
+  font-family: Arial;
+  font-size: 20px;
+}
+.title {
+  color: yellow;
+  text-align: center;
+  font-family: Arial;
+  font-size: 400px;
+}
+.image {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+.caption {
+  display: block;
+  padding-left:
+  font-family: 'Playfair Display', Arial;
+  font-size: 80px;
+  font-style: regular;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 20px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+  background-color: none;
+  color:yellow;
+  opacity: 0.75;
+  text-align: center;
+}
+.caption1  {
+  display: block;
+  block: left;
+  font-family: Arial;
+  font-size: 40px;
+  margin-left: 20px;
+  background-color: limegreen;
+  color:white;
+  opacity: 0.75;
+  text-align: left;
+  padding: 10px;
+  position: left;
+}
